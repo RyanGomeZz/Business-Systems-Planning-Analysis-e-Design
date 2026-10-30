@@ -1,0 +1,10 @@
+1. Atualmente o controle é feito pelos funcionários, que registram a entrada e a saída dos veículos e controlam os tickets.
+2. Uma das principais dificuldades é controlar as vagas disponíveis e evitar erros nos registros de entrada, saída e pagamento.	
+3. O controle é realizado visualmente pelos funcionários e, em alguns momentos, pode ser difícil saber exatamente quantas vagas estão disponíveis.
+4. Normalmente é utilizado um ticket ou anotação feita pelo funcionário, contendo informações sobre o veículo e o horário de entrada.
+5. Os pagamentos são registrados pelos funcionários e conferidos no caixa ao final do período.
+6. Podem ocorrer erros no cálculo do tempo de permanência, problemas com troco e demora nas filas em horários de maior movimento.	
+7. O acompanhamento é feito principalmente pelo caixa e por registros internos, sendo necessário conferir as informações manualmente.
+8. São importantes a placa, modelo do veículo, horário de entrada e saída, forma de pagamento e, no caso de mensalistas, os dados do cliente.
+9. Seria interessante ter uma tela mostrando quantas vagas estão ocupadas e quantas estão livres sem precisar verificar pessoalmente.
+10. Um sistema que reunisse vagas, entrada, saída, pagamentos e relatórios em um único lugar ajudaria bastante.	

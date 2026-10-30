@@ -1,0 +1,10 @@
+1. Como funciona atualmente o controle de entrada e saída dos veículos no estacionamento?
+2. Quais são as principais dificuldades que você enfrenta no gerenciamento do estacionamento?
+3. Como você controla atualmente a quantidade de vagas disponíveis?
+4. Como é feito o registro dos veículos que entram e saem do estacionamento?
+5. Como você controla os pagamentos realizados pelos clientes?
+6. Quais problemas costumam acontecer durante o processo de cobrança e pagamento?
+7. Como você acompanha o movimento e o faturamento do estacionamento?
+8. Quais informações sobre os clientes e veículos você considera importantes para o gerenciamento do negócio?
+9. Como você gostaria de acompanhar as vagas disponíveis em tempo real?
+10. Que tipo de recurso em um aplicativo ou sistema poderia facilitar o gerenciamento do estacionamento?

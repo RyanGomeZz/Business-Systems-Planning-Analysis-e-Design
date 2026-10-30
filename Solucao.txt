@@ -1,0 +1,10 @@
+1. Criar um sistema automatizado para registrar entrada e saída, armazenando data, horário e identificação do veículo.
+2. Desenvolver um painel de controle que mostre as vagas ocupadas e disponíveis em tempo real e automatize os registros.
+3. Implementar um sistema de controle de vagas em tempo real, atualizando automaticamente a disponibilidade conforme os veículos entram e saem.
+4. Utilizar cadastro digital do veículo e, se possível, reconhecimento automático da placa por câmera.
+5. Criar um módulo financeiro que registre automaticamente os pagamentos e permita consultar o faturamento diário, semanal e mensal.
+6. Automatizar o cálculo do valor de acordo com o tempo de permanência e oferecer opções de pagamento digital, como Pix e cartão.
+7. Criar relatórios automáticos com quantidade de clientes, veículos atendidos, pagamentos e faturamento.
+8. Criar um banco de dados para armazenar e consultar essas informações de maneira organizada.
+9. Desenvolver um painel de vagas com atualização em tempo real e possibilidade de integração com sensores ou câmeras.
+10. Desenvolver um sistema integrado com módulos de vagas, clientes, veículos, pagamentos e relatórios.
